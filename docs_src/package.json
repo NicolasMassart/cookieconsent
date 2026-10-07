@@ -18,11 +18,11 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.6.3",
-    "ajv": "^6.6.2",
+    "ajv": "^6.15.0",
     "ajv-keywords": "^3.2.0",
     "aos": "^2.3.4",
     "bootstrap": "^4.2.1",
-    "browser-sync": "^2.26.3",
+    "browser-sync": "^3.0.4",
     "browser-sync-webpack-plugin": "^2.2.2",
     "countup.js": "^1.9.3",
     "cross-env": "^5.2.0",
@@ -30,7 +30,7 @@
     "et-line": "^1.0.1",
     "font-awesome": "^4.7.0",
     "granim": "^2.0.0",
-    "gulp": "3.9.1",
+    "gulp": "5.0.1",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-cache": "^1.1.0",
     "gulp-changed": "^3.2.0",
@@ -45,7 +45,7 @@
     "gulp-zip": "^4.2.0",
     "imagesloaded": "^4.1.4",
     "jarallax": "^1.10.6",
-    "jquery": "^3.3.1",
+    "jquery": "^4.0.0",
     "jquery-countdown": "^2.2.0",
     "jquery.photoswipe": "^1.1.1",
     "lity": "^2.3.1",
@@ -68,6 +68,6 @@
   },
   "dependencies": {
     "natives": "^1.1.6",
-    "npm": "^6.5.0"
+    "npm": "^11.9.0"
   }
 }
